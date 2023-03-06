@@ -103,3 +103,9 @@ div.icons i:nth-child(3) {
     padding: 10px;
 }
 
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
